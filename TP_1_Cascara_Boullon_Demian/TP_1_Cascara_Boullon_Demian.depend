@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1491510849 source:c:\trabajos_practicos\tp_1_cascara_demian\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"validacion.h"
+
+1491510474 c:\trabajos_practicos\tp_1_cascara_demian\funciones.h
+
+1491091249 c:\trabajos_practicos\tp_1_cascara_demian\validacion.h
+
+1491512252 source:c:\trabajos_practicos\tp_1_cascara_demian\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+	"validacion.h"
+
+1491503461 source:c:\trabajos_practicos\tp_1_cascara_demian\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"validacion.h"
+
+1491488817 source:c:\trabajos_practicos\tp_1_cascara_demian\mensajes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1491503099 c:\trabajos_practicos\tp_1_cascara_demian\mensajes.h
+
+1491512749 source:e:\tp_1_cascara_boullon_demian\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"validacion.h"
+
+1491091249 e:\tp_1_cascara_boullon_demian\validacion.h
+
+1491512252 source:e:\tp_1_cascara_boullon_demian\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+	"validacion.h"
+
+1491510474 e:\tp_1_cascara_boullon_demian\funciones.h
+
+1491503461 source:e:\tp_1_cascara_boullon_demian\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"validacion.h"
+
