@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1492992986 source:c:\users\dem\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"utn.h"
+	"funciones.h"
+
+1492992546 c:\users\dem\desktop\tp_2_cascara\funciones.h
+
+1492383595 source:c:\users\dem\desktop\tp_2_cascara\estructuras.c
+
+1492981592 source:c:\users\dem\desktop\tp_2_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"utn.h"
+
+1492882231 c:\users\dem\desktop\tp_2_cascara\estructuras.h
+
+1492884485 c:\users\dem\desktop\tp_2_cascara\utn.h
+
+1492993304 source:c:\users\dem\desktop\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"funciones.h"
+
+1493227341 source:c:\users\demianb\desktop\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"funciones.h"
+
+1492884485 c:\users\demianb\desktop\tp_2_cascara\tp_2_cascara\utn.h
+
+1493227285 c:\users\demianb\desktop\tp_2_cascara\tp_2_cascara\funciones.h
+
+1492981592 source:c:\users\demianb\desktop\tp_2_cascara\tp_2_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"utn.h"
+
+1493227310 source:c:\users\demianb\desktop\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"utn.h"
+	"funciones.h"
+
+1493227429 source:c:\users\dem\desktop\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"utn.h"
+	"funciones.h"
+
+1492884485 c:\users\dem\desktop\tp_2_cascara\tp_2_cascara\utn.h
+
+1493412764 c:\users\dem\desktop\tp_2_cascara\tp_2_cascara\funciones.h
+
+1492981592 source:c:\users\dem\desktop\tp_2_cascara\tp_2_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"utn.h"
+
+1493239072 source:c:\users\dem\desktop\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"funciones.h"
+
