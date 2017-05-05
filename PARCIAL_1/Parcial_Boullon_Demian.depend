@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1493939832 source:d:\parcial_boullon_demian\busqueda.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1493852250 d:\parcial_boullon_demian\validaciones.h
+
+1493942002 d:\parcial_boullon_demian\cargayedicion.h
+
+1493945345 d:\parcial_boullon_demian\edicionarrays.h
+
+1493939832 d:\parcial_boullon_demian\busqueda.h
+
+1493942002 source:d:\parcial_boullon_demian\cargayedicion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"busqueda.h"
+
+1493871830 d:\parcial_boullon_demian\estructuras.h
+
+1493945341 source:d:\parcial_boullon_demian\edicionarrays.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+
+1493945368 source:d:\parcial_boullon_demian\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1493945333 source:d:\parcial_boullon_demian\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"lib.h"
+	"busqueda.h"
+
+1493942647 d:\parcial_boullon_demian\lib.h
+
+1493914186 source:d:\parcial_boullon_demian\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"cargaYEdicion.h"
+
+1493939832 source:c:\users\alumno\tp_laboratorio_1\parcial_boullon_demian\busqueda.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1493852250 c:\users\alumno\tp_laboratorio_1\parcial_boullon_demian\validaciones.h
+
+1493942002 c:\users\alumno\tp_laboratorio_1\parcial_boullon_demian\cargayedicion.h
+
+1493945345 c:\users\alumno\tp_laboratorio_1\parcial_boullon_demian\edicionarrays.h
+
+1493939832 c:\users\alumno\tp_laboratorio_1\parcial_boullon_demian\busqueda.h
+
+1493942002 source:c:\users\alumno\tp_laboratorio_1\parcial_boullon_demian\cargayedicion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"busqueda.h"
+
+1493871830 c:\users\alumno\tp_laboratorio_1\parcial_boullon_demian\estructuras.h
+
+1493945341 source:c:\users\alumno\tp_laboratorio_1\parcial_boullon_demian\edicionarrays.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+
+1493945480 source:c:\users\alumno\tp_laboratorio_1\parcial_boullon_demian\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1493945333 source:c:\users\alumno\tp_laboratorio_1\parcial_boullon_demian\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"lib.h"
+	"busqueda.h"
+
+1493942647 c:\users\alumno\tp_laboratorio_1\parcial_boullon_demian\lib.h
+
+1493914186 source:c:\users\alumno\tp_laboratorio_1\parcial_boullon_demian\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"cargaYEdicion.h"
+

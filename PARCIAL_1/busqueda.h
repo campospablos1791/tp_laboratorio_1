@@ -1,0 +1,14 @@
+int obtenerIndicePorId(E_Usuario listaPersonas[],int cantidad,char mensaje[], char mensajeError[],char mensajeNoEncontrado[]);
+int obtenerEspacioLibreLlamadas(E_Productos lista[], int cantidad_elementos, int precio);
+int obtenerEspacioLibre(E_Usuario lista[], int cantidad_elementos, int precio);
+int obtenerIndiceLlamadaPorId(E_Productos listaProductos[],int cantidad,char mensaje[], char mensajeError[],char mensajeNoEncontrado[]);
+int usuarioConMayorCantidadDeLlamadas (E_Productos listaProductos[],int cantComent,E_Usuario listaUsuar[],int cantUsuar,int usuarConMasMensajes[]);
+int buscarPorIdProductos(E_Productos lista[], int cantidad,int idComentario);
+int usuarioConMayorCantidadDeComentarios (E_Productos listaComent[],int cantComent,E_Usuario listaUsuar[],int cantUsuar,int usuarConMasMensajes[]);
+int buscarPorDni(E_Usuario lista[], int cantidad,char dni[]);
+int buscarPorIdUsuario(E_Usuario lista[], int cantidad,int idUsuario);
+void nombreProductoMasRepetido (E_Productos lista[],int cantidad,EMotivo nombreProducto[],int nombreProductosMasRepetidos[]);
+void nombreProductoMasDemoraEnPromedio (E_Productos lista[],int cantidad,EMotivo nombreProducto[],int nombreProductosMasDemorados[]);
+//int buscarPorDni(E_Usuario lista[], int cantidad,char dni[]);
+int usuarioMayorEdad (E_Usuario lista[],int cantidad,int listaUsuariosMayorEdad[]);
+void buscarProductoPorIdUsuario(E_Productos lista[], int cantidadDeProductos,int idUsuario, int listaProductosUsuario[]);

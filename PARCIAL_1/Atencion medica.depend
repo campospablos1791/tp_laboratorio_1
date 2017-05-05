@@ -1,0 +1,209 @@
+# depslib dependency file v1.0
+1493841292 source:e:\facu\asistencia_medica\atencion medica\cargayedicion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"busqueda.h"
+
+1493573709 e:\facu\asistencia_medica\atencion medica\validaciones.h
+
+1493490185 e:\facu\asistencia_medica\atencion medica\estructuras.h
+
+1493841292 e:\facu\asistencia_medica\atencion medica\cargayedicion.h
+
+1493866125 source:e:\facu\asistencia_medica\atencion medica\edicionarrays.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+
+1493866108 e:\facu\asistencia_medica\atencion medica\edicionarrays.h
+
+1493573709 source:e:\facu\asistencia_medica\atencion medica\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"cargaYEdicion.h"
+
+1493865355 source:e:\facu\asistencia_medica\atencion medica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"lib.h"
+
+1493866030 source:e:\facu\asistencia_medica\atencion medica\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1493865991 e:\facu\asistencia_medica\atencion medica\lib.h
+
+1493864849 source:e:\facu\asistencia_medica\atencion medica\busqueda.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1493864832 e:\facu\asistencia_medica\atencion medica\busqueda.h
+
+1493852250 source:c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\busqueda.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1493852250 c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\validaciones.h
+
+1493852250 c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\cargayedicion.h
+
+1493874958 c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\edicionarrays.h
+
+1493852250 c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\busqueda.h
+
+1493852250 source:c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\cargayedicion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"busqueda.h"
+
+1493871829 c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\estructuras.h
+
+1493875122 source:c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\edicionarrays.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+
+1493852250 source:c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1493875314 source:c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"lib.h"
+
+1493852250 c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\lib.h
+
+1493852250 source:c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"cargaYEdicion.h"
+
+1493923015 source:c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\busqueda.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1493852250 c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\validaciones.h
+
+1493914205 c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\cargayedicion.h
+
+1493914562 c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\edicionarrays.h
+
+1493923666 c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\busqueda.h
+
+1493914415 source:c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\cargayedicion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"busqueda.h"
+
+1493871829 c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\estructuras.h
+
+1493914184 source:c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"cargaYEdicion.h"
+
+1493915331 source:c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\edicionarrays.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+
+1493917255 source:c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1493923640 source:c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"lib.h"
+	"busqueda.h"
+
+1493908963 c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\lib.h
+
